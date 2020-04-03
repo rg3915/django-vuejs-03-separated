@@ -325,9 +325,6 @@ export default {
   components: {
     HelloWorld,
     Navbar
-  },
-  created(){
-    // todo
   }
 }
 </script>
@@ -515,7 +512,7 @@ MIDDLEWARE = [
 CORS_ORIGIN_ALLOW_ALL = True
 ```
 
-Protinho!!!
+Prontinho!!!
 
 
 [1]: https://www.djangoproject.com/
